@@ -1,0 +1,46 @@
+{
+      "combinaciones": {
+        "CVC": [
+          "ba", "be", "bi", "bo", "bu",
+          "ca", "ce", "ci", "co", "cu",
+          "da", "de", "di", "do", "du",
+          "fa", "fe", "fi", "fo", "fu",
+          "ga", "ge", "gi", "go", "gu",
+          "ha", "he", "hi", "ho", "hu",
+          "ja", "je", "ji", "jo", "ju",
+          "ka", "ke", "ki", "ko", "ku",
+          "la", "le", "li", "lo", "lu",
+          "ma", "me", "mi", "mo", "mu",
+          "na", "ne", "ni", "no", "nu",
+          "pa", "pe", "pi", "po", "pu",
+          "ra", "re", "ri", "ro", "ru",
+          "sa", "se", "si", "so", "su",
+          "ta", "te", "ti", "to", "tu",
+          "va", "ve", "vi", "vo", "vu",
+          "wa", "we", "wi", "wo", "wu",
+          "ya", "ye", "yi", "yo", "yu",
+          "za", "ze", "zi", "zo", "zu"
+        ],
+        "CCV": [
+          "bra", "bre", "bri", "bro", "bru",
+          "cla", "cle", "cli", "clo", "clu",
+          "dra", "dre", "dri", "dro", "dru",
+          "fra", "fre", "fri", "fro", "fru",
+          "gra", "gre", "gri", "gro", "gru",
+          "pla", "ple", "pli", "plo", "plu",
+          "pra", "pre", "pri", "pro", "pru",
+          "tra", "tre", "tri", "tro", "tru"
+        ],
+        "VC": [
+          "ab", "eb", "ib", "ob", "ub",
+          "ac", "ec", "ic", "oc", "uc",
+          "ad", "ed", "id", "od", "ud",
+          "af", "ef", "if", "of", "uf",
+          "ag", "eg", "ig", "og", "ug",
+          "al", "el", "il", "ol", "ul",
+          "am", "em", "im", "om", "um",
+          "an", "en", "in", "on", "un"
+        ]
+      }
+    }
+  
